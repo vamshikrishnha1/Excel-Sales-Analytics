@@ -6,7 +6,7 @@
 
     **1.** Create a _[customer performance report](https://github.com/vamshikrishnha1/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/vamshikrishnha1/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/vamshikrishnha1/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20report.pdf)_
 
     **3.** Find the top 10 products based on the percentage increase in their net sales from 2020 to 2021 _[top 10 products](https://github.com/vamshikrishnha1/Excel-Sales-Analytics/blob/main/Top%2010%20Products.pdf)_
 
@@ -14,7 +14,7 @@
   
     **5.** Generate a "Division" report to present the net sales data for 2020 and 2021, along with the growth percentage _[division growth report](https://github.com/vamshikrishnha1/Excel-Sales-Analytics/blob/main/Division%20Growth%20Report.pdf)_
 
-    **6.** Find the top 5 division level products in terms of quantity sold _[top 10 products](https://github.com/vamshikrishnha1/Excel-Sales-Analytics/blob/main/Division%20Level%20Top%205%20Products.pdf)_
+    **6.** Find the top 5 division level products in terms of quantity sold _[top 5 products](https://github.com/vamshikrishnha1/Excel-Sales-Analytics/blob/main/Division%20Level%20Top%205%20Products.pdf)_
   
     
   
