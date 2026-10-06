@@ -1,6 +1,6 @@
 # Unlocking Business Insights in Excel: AtliQ Hardwares Case Study
 
-### A deep dive into sales and finance analytics to uncover trends, drive performance, and support strategic decisions using advanced Excel techniques: Power Query, Power Pivot, and DAX.
+#### A deep dive into sales and finance analytics to uncover trends, drive performance, and support strategic decisions using advanced Excel techniques: Power Query, Power Pivot, and DAX.
 
 ❗## The Problem
 
