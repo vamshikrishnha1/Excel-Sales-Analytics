@@ -2,7 +2,7 @@
 
 #### A deep dive into sales and finance analytics to uncover trends, drive performance, and support strategic decisions using advanced Excel techniques: Power Query, Power Pivot, and DAX.
 
-❗## The Problem
+## ❗The Problem
 
 - AtliQ Hardwares faced inconsistent sales performance and opaque profitability across products, divisions, and markets.
 - Fragmented data and a lack of consolidated insights hindered decision-making.
